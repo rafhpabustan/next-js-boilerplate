@@ -1,6 +1,6 @@
-# Bean & Geli’s Farm Resort
+# Next JS Boilerplate
 
-To Promote The Farm Resort under “ECO-TOURISM” - Our Goal
+Starter files for Next js + styled components projects.
 
 ## Overview
 
@@ -10,7 +10,7 @@ To Promote The Farm Resort under “ECO-TOURISM” - Our Goal
 
 ```bash
 $ git clone https://github.com/rafhpabustan/next-js-boilerplate
-$ cd farm-resort
+$ cd next-js-boilerplate
 $ yarn
 $ yarn dev
 ```
